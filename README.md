@@ -1,4 +1,6 @@
 # mini-projet
+Benbouras f .zohra      Guellil djamâa    Guemar lamis
+
 
 Introduction :
 Pour qu’aujourd’hui l’informatique s’élève vers les nuages, qu’elle devienne « Cloud Computing » : le cloud computing consiste a exploiter la puissance de calcule ou de stockage de serveurs informatiques distants par l’intermédiaire d’un réseau, généralement l’internet.
